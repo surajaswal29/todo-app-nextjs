@@ -1,0 +1,210 @@
+[
+  {
+    "id": "1",
+    "title": "Finish homework",
+    "description": "Math assignment due on Friday.",
+    "isCompleted": false,
+    "status": "ongoing",
+    "createdOn": "2024-04-12"
+  },
+  {
+    "id": "2",
+    "title": "Finish homework",
+    "description": "For my homework, I need to complete several math problems, write an essay, and review some readings. The math problems are part of an assignment due this Friday, and they cover topics like algebra and geometry. Additionally, I have to write an essay on a given topic, which requires research and thoughtful writing. Lastly, I need to review some readings related to the coursework to prepare for upcoming quizzes and exams. This homework is crucial for my academic progress and requires dedicated time and effort to ensure that I understand the concepts thoroughly. I plan to allocate specific time slots over the next few days to tackle each component of the homework systematically. By completing this homework diligently, I aim to enhance my understanding of the subject matter and achieve academic success",
+    "isCompleted": false,
+    "status": "ongoing",
+    "createdOn": "2024-04-11"
+  },
+  {
+    "id": "3",
+    "title": "Go for a run",
+    "description": "Run at least 5 kilometers.",
+    "isCompleted": true,
+    "status": "completed",
+    "createdOn": "2024-04-10"
+  },
+  {
+    "id": "4",
+    "title": "Buy groceries",
+    "description": "Remember to buy milk and eggs.",
+    "isCompleted": false,
+    "status": "upcoming",
+    "createdOn": "2024-04-11"
+  },
+  {
+    "id": "5",
+    "title": "Prepare presentation slides",
+    "description": "Presentation for the meeting next Monday.",
+    "isCompleted": false,
+    "status": "upcoming",
+    "createdOn": "2024-04-09"
+  },
+  {
+    "id": "6",
+    "title": "Call mom",
+    "description": "Discuss family dinner plans.",
+    "isCompleted": true,
+    "status": "completed",
+    "createdOn": "2024-04-08"
+  },
+  {
+    "id": "7",
+    "title": "Read book",
+    "description": "Chapter 3 to Chapter 5.",
+    "isCompleted": false,
+    "status": "ongoing",
+    "createdOn": "2024-04-07"
+  },
+  {
+    "id": "8",
+    "title": "Plan weekend getaway",
+    "description": "Research possible destinations.",
+    "isCompleted": false,
+    "status": "upcoming",
+    "createdOn": "2024-04-06"
+  },
+  {
+    "id": "9",
+    "title": "Attend yoga class",
+    "description": "At the local gym.",
+    "isCompleted": true,
+    "status": "completed",
+    "createdOn": "2024-04-05"
+  },
+  {
+    "id": "10",
+    "title": "Write blog post",
+    "description": "Topic: Technology trends in 2024.",
+    "isCompleted": false,
+    "status": "ongoing",
+    "createdOn": "2024-04-04"
+  },
+  {
+    "id": "11",
+    "title": "Schedule dentist appointment",
+    "description": "Checkup and cleaning.",
+    "isCompleted": false,
+    "status": "upcoming",
+    "createdOn": "2024-04-03"
+  },
+  {
+    "id": "12",
+    "title": "Finish reading article",
+    "description": "Article on neuroscience research.",
+    "isCompleted": false,
+    "status": "ongoing",
+    "createdOn": "2024-04-12"
+  },
+  {
+    "id": "13",
+    "title": "Practice guitar",
+    "description": "Learn new chords and scales.",
+    "isCompleted": false,
+    "status": "ongoing",
+    "createdOn": "2024-04-12"
+  },
+  {
+    "id": "14",
+    "title": "Organize desk",
+    "description": "Sort papers and declutter workspace.",
+    "isCompleted": false,
+    "status": "ongoing",
+    "createdOn": "2024-04-12"
+  },
+  {
+    "id": "15",
+    "title": "Watch documentary",
+    "description": "On environmental conservation.",
+    "isCompleted": false,
+    "status": "ongoing",
+    "createdOn": "2024-04-12"
+  },
+  {
+    "id": "16",
+    "title": "Practice mindfulness",
+    "description": "Meditate for 10 minutes.",
+    "isCompleted": false,
+    "status": "ongoing",
+    "createdOn": "2024-04-12"
+  },
+  {
+    "id": "17",
+    "title": "Submit project proposal",
+    "description": "Proposal for upcoming project.",
+    "isCompleted": false,
+    "status": "upcoming",
+    "createdOn": "2024-04-12"
+  },
+  {
+    "id": "18",
+    "title": "Attend webinar",
+    "description": "On digital marketing strategies.",
+    "isCompleted": false,
+    "status": "upcoming",
+    "createdOn": "2024-04-12"
+  },
+  {
+    "id": "19",
+    "title": "Plan vacation",
+    "description": "Research travel destinations.",
+    "isCompleted": false,
+    "status": "upcoming",
+    "createdOn": "2024-04-12"
+  },
+  {
+    "id": "20",
+    "title": "Renew gym membership",
+    "description": "Subscription expiring soon.",
+    "isCompleted": false,
+    "status": "upcoming",
+    "createdOn": "2024-04-12"
+  },
+  {
+    "id": "21",
+    "title": "Update resume",
+    "description": "Add recent achievements and skills.",
+    "isCompleted": false,
+    "status": "upcoming",
+    "createdOn": "2024-04-12"
+  },
+  {
+    "id": "22",
+    "title": "Review meeting notes",
+    "description": "From last week's team meeting.",
+    "isCompleted": false,
+    "status": "completed",
+    "createdOn": "2024-04-12"
+  },
+  {
+    "id": "23",
+    "title": "Clean house",
+    "description": "Vacuum, dust, and tidy up rooms.",
+    "isCompleted": false,
+    "status": "completed",
+    "createdOn": "2024-04-12"
+  },
+  {
+    "id": "24",
+    "title": "Complete online course",
+    "description": "Finish last module of web development course.",
+    "isCompleted": false,
+    "status": "completed",
+    "createdOn": "2024-04-12"
+  },
+  {
+    "id": "25",
+    "title": "Write thank-you cards",
+    "description": "Express gratitude to colleagues.",
+    "isCompleted": false,
+    "status": "completed",
+    "createdOn": "2024-04-12"
+  },
+  {
+    "id": "26",
+    "title": "File taxes",
+    "description": "Submit tax return before deadline.",
+    "isCompleted": false,
+    "status": "completed",
+    "createdOn": "2024-04-12"
+  }
+]

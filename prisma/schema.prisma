@@ -1,0 +1,20 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model ToDoTask {
+  id          Int     @id @default(autoincrement())
+  title       String  @unique
+  description String
+  status      String  @default("upcoming")
+  isCompleted Boolean @default(false)
+  createdOn   String
+}
