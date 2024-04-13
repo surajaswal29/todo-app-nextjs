@@ -22,6 +22,7 @@ const NewTaskModal: React.FC<Props> = ({ handleCloseModal }) => {
       alert("Task added successfully!")
       handleCloseModal()
     } catch (error) {
+      console.log(error);
       console.error("Failed to add task", error)
       alert("Failed to add task")
     }
